@@ -1,0 +1,1 @@
+# Use OpenAI API to generate sample of 100 posts, 1000 comments, and 10 replies for an ask_reddit thread
